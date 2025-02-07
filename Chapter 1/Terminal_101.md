@@ -115,4 +115,4 @@ Let’s dive into the glorious abyss of terminal commands. These are the buildin
 
 **HGTTG Final Note**: These commands are your bread and butter. Learn them, love them, and for the love of Zaphod Beeblebrox, don’t `rm -rf /` your system.  
 
-Now go forth and conquer the terminal. The universe is waiting. 🚀  
+[Now go forth and conquer the terminal. The universe is waiting. 🚀  ](linux_practice_questions.md)
