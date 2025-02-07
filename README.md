@@ -13,7 +13,7 @@ This repository contains my journey from ground up. I am going to use LLMs to pr
 ### 1.2 Installing Linux Without Summoning a Demon  
 - Distro Selection: Ubuntu, Fedora, CentOS, or “I Use Arch BTW”  
 - Dual-Booting: How to Annoy Your Existing OS  
-### [1.3 Terminal 101: Pretending You’re in *The Matrix*](Chapter\1/Terminal_101.md)  
+### [1.3 Terminal 101: Pretending You’re in *The Matrix*](Chapter%201/Terminal_101.md)  
 - Basic Commands: `ls`, `cd`, `rm -rf /` (Don’t. Just Don’t.)  
 - Filesystem Hierarchy: Where Your Files Go to Hide  
 ### 1.4 Permissions: Because Chaos is Overrated  
