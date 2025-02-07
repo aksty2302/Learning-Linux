@@ -1,5 +1,5 @@
 # Learning-Linux
-This repository contains my journey from ground up. I am going to use LLMs to practise as much as I can, as accelerate my learning of the said topic. I have prompted Deepseek in "Hitchhiker's Guide to galaxy" way to keep things intersting. On a second note I am not going to sprint on this particular table of content because I want to learn linux for DevOps projects. So it would be best for me learn things when I would be needing it rather than learning it in one go. 
+This repository contains my journey from ground up. I am going to use LLMs to practise as much as I can, as accelerate my learning of the said topic. I have prompted Deepseek in "Hitchhiker's Guide to galaxy" way to keep things intersting. On a second note I am not going to sprint on this particular table of content because I want to learn linux for DevOps projects. So it would be best for me learn things when I would be needing it rather than learning it in one go.
 
 # **The Hitchhiker’s Almighty Roadmap to Linux Domination (and DevOps Shenanigans)**  
 *Because You’ll Need It When the Vogons Come*  
